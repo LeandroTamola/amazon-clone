@@ -3,9 +3,6 @@
 <h3>Amazon Home:</h3>
 <img src="https://i.ibb.co/VQrZWJ7/Screen-Shot-2020-09-15-at-16-23-47.png">
 
-<h3>Amazon Checkout:</h3>
-<img src="https://i.ibb.co/FgX5Dtz/Screen-Shot-2020-09-15-at-16-23-56.png">
-
 <h3>Amazon Log in:</h3>
 <img src="https://i.ibb.co/khWCTBP/Screen-Shot-2020-09-15-at-16-24-06.png">
 
