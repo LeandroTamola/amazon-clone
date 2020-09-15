@@ -1,4 +1,17 @@
-Full Amazon clone developed using React, react Hooks and Firebase (for hosting, auth and database functions)
+<h2>Full Amazon clone developed using React, react Hooks and Firebase (for hosting, auth and database functions)</h2>
+
+<h3>Amazon Home:</h3>
+![Image of Amazon Home](https://ibb.co/P93nZF7)
+
+<h3>Amazon Checkout:</h3>
+![Image of Amazon Checkout](https://ibb.co/cDw6rdQ)
+
+<h3>Amazon Log in:</h3>
+![Image of Amazon Login](https://ibb.co/GVbSDpr)
+
+
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
