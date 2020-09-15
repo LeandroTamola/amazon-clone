@@ -1,13 +1,13 @@
 <h2>Full Amazon clone developed using React, react Hooks and Firebase (for hosting, auth and database functions)</h2>
 
 <h3>Amazon Home:</h3>
-![Image of Amazon Home](https://i.ibb.co/VQrZWJ7/Screen-Shot-2020-09-15-at-16-23-47.png)
+![Image of Amazon Home] (https://i.ibb.co/VQrZWJ7/Screen-Shot-2020-09-15-at-16-23-47.png)
 
 <h3>Amazon Checkout:</h3>
-![Image of Amazon Checkout](https://ibb.co/cDw6rdQ)
+![Image of Amazon Checkout] (https://i.ibb.co/FgX5Dtz/Screen-Shot-2020-09-15-at-16-23-56.png)
 
 <h3>Amazon Log in:</h3>
-![Image of Amazon Login](https://ibb.co/GVbSDpr)
+![Image of Amazon Login] (https://i.ibb.co/khWCTBP/Screen-Shot-2020-09-15-at-16-24-06.png)
 
 
 
