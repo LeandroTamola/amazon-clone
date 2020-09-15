@@ -1,3 +1,5 @@
+Full Amazon clone developed using React, react Hooks and Firebase (for hosting, auth and database functions)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
